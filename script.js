@@ -1,6 +1,7 @@
 
 function selecthandle(){
     document.querySelectorAll('.select__header').forEach(
+        
 
         (item) =>{
             console.log(item)
